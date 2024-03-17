@@ -1,0 +1,15 @@
+names:
+- Grenade
+- Gun
+- Knife
+- Pistol
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: image-labelling-uhngw
+  url: https://universe.roboflow.com/rapidev-pmcmr/image-labelling-uhngw/dataset/3
+  version: 3
+  workspace: rapidev-pmcmr
+test: /content/Weapon_Detection/Image-Labelling-3/test/images
+train: /content/Weapon_Detection/Image-Labelling-3/train/images
+val: /content/Weapon_Detection/Image-Labelling-3/valid/images
